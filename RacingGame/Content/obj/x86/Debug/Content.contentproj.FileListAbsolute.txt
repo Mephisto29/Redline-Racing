@@ -1,0 +1,11 @@
+C:\Users\Nemesis\Desktop\RacingGame\RacingGame\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Nemesis\Desktop\End Year Game\RacingGame\RacingGame\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Mephisto\Desktop\Project stuff\End Year Game\RacingGame\RacingGame\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Update 11.0\RacingGame\RacingGame\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Mephisto\Desktop\Project stuff\Project backups\Update 15\RacingGame\RacingGame\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\CSC3020H-4\Desktop\RacingGame\RacingGame\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Killer\Desktop\Project stuff\End Year Game\RacingGame\RacingGame\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\bdrmun002\Desktop\RacingGame\RacingGame\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\RacingGame\RacingGame\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Killer\Desktop\RacingGame\RacingGame\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Killer\Desktop\UCT  Work\3rd Year Project\RacingGame\RacingGame\Content\obj\x86\Debug\ResolveAssemblyReference.cache

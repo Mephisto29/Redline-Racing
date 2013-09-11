@@ -1,0 +1,5 @@
+C:\Documents and Settings\CSC3020H-4\Desktop\RacingGame\RacingGame\Content\obj\Xbox 360\Debug\ResolveAssemblyReference.cache
+C:\Users\Killer\Desktop\Project stuff\End Year Game\RacingGame\RacingGame\Content\obj\Xbox 360\Debug\ResolveAssemblyReference.cache
+E:\RacingGame\RacingGame\Content\obj\Xbox 360\Debug\ResolveAssemblyReference.cache
+E:\FINISHED ASSIGNMENTS\RacingGame\RacingGame\Content\obj\Xbox 360\Debug\ResolveAssemblyReference.cache
+C:\Users\Nemesis\Desktop\RacingGame\RacingGame\Content\obj\Xbox 360\Debug\ResolveAssemblyReference.cache

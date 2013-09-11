@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Graphics="Microsoft.Xna.Framework.Content.Pipeline.Graphics" xmlns:Framework="Microsoft.Xna.Framework">
+  <Asset Type="Graphics:MeshContent">
+    <Name>polySurface1</Name>
+    <Identity>
+      <SourceFilename>C:\Users\Killer\Desktop\UCT  Work\3rd Year Project\RacingGame\RacingGame\Content\Models\Objects\garage.fbx</SourceFilename>
+      <SourceTool>FbxImporter</SourceTool>
+    </Identity>
+    <OpaqueData>
+      <Data Key="UDP3DSMAX">MapChannel:1 = map1
+</Data>
+      <Data Key="MaxHandle" Type="int">1</Data>
+    </OpaqueData>
+    <Transform>1 0 0 0 0 1 4.371139E-08 0 0 -4.371139E-08 1 0 0 0 0 1</Transform>
+    <Positions>-1.64699638 -0.0233887732 1.50734329 1.64699638 -0.0233887732 1.50734329 -1.64699638 2.00396013 1.50734329 1.64699638 2.00396013 1.50734329 -1.64699638 2.00396013 -1.50734329 1.64699638 2.00396013 -1.50734329 -1.64699638 -0.0233887732 -1.50734329 1.64699638 -0.0233887732 -1.50734329 -1.45484662 -0.0160904229 1.50734329 1.45484662 -0.0160904229 1.50734329 1.45484662 1.74745584 1.50734329 -1.45484662 1.74745584 1.50734329 -1.45484662 -0.0160904229 1.359108 1.45484662 -0.0160904229 1.359108 1.45484662 1.74745584 1.359108 -1.45484662 1.74745584 1.359108 -1.399947 2.00396013 1.28124189 1.399947 2.00396013 1.28124189 1.399947 2.00396013 -1.28124189 -1.399947 2.00396013 -1.28124189 -1.14329016 1.85768056 1.06845593 1.14329016 1.85768056 1.06845593 1.14329016 1.85768056 -1.06845593 -1.14329016 1.85768056 -1.06845593 -0.14976272 0.192796767 1.44899011 0.14976272 0.192796767 1.44899011 -0.14976272 0.301179528 1.44899011 0.14976272 0.301179528 1.44899011 -0.14976272 0.301179528 1.34185815 0.14976272 0.301179528 1.34185815 -0.14976272 0.192796767 1.34185815 0.14976272 0.192796767 1.34185815</Positions>
+    <Geometry>
+      <Batch>
+        <Material>#Resource1</Material>
+        <Indices>2 1 0 0 3 2</Indices>
+        <Vertices>
+          <PositionIndices>12 13 14 15</PositionIndices>
+          <Channels>
+            <VertexChannel Name="Normal0" ElementType="Framework:Vector3">0 0 1 0 0 1 0 0 1 0 0 1</VertexChannel>
+            <VertexChannel Name="TextureCoordinate0" ElementType="Framework:Vector2">0.375 1 0.625 1 0.625 0.75 0.375 0.75</VertexChannel>
+          </Channels>
+        </Vertices>
+      </Batch>
+      <Batch>
+        <Material>#Resource2</Material>
+        <Indices>2 1 0 0 3 2 6 5 4 4 7 6 10 9 8 8 11 10 14 13 12 12 15 14 18 17 16 16 19 18 22 21 20 20 23 22 25 24 21 21 22 25 27 26 24 24 25 27 23 20 26 26 27 23 30 29 28 28 31 30 34 33 32 32 35 34 38 37 36 36 39 38 42 41 40 40 43 42 46 45 44 44 47 46 49 48 45 45 46 49 51 50 48 48 49 51 47 44 50 50 51 47 54 53 52 52 55 54 2 49 46 46 1 2 58 57 56 56 59 58 0 47 51 51 3 0</Indices>
+        <Vertices>
+          <PositionIndices>20 21 22 23 4 5 7 6 6 7 1 0 1 7 5 3 6 0 2 4 0 1 9 8 3 10 2 11 8 9 13 12 9 10 14 13 10 11 15 14 11 8 12 15 2 3 17 16 5 18 4 19 16 17 21 20 18 19 23 22</PositionIndices>
+          <Channels>
+            <VertexChannel Name="Normal0" ElementType="Framework:Vector3">0.2344788 0.972121239 0 -0.2344788 0.972121239 0 -0.2344788 0.972121239 0 0.2344788 0.972121239 0 0 0 -1 0 0 -1 0 0 -1 0 0 -1 0 -1 0 0 -1 0 0 -1 0 0 -1 0 1 0 0 1 0 0 1 0 0 1 0 0 -1 0 0 -1 0 0 -1 0 0 -1 0 0 1.25028592E-07 0 1 0 0 1 0 0 1 1.25028592E-07 0 1 0 0 1 0 0 1 1.25028592E-07 0 1 1.25028592E-07 0 1 0 1 0 0 1 0 0 1 0 0 1 0 -1 0 0 -1 0 0 -1 0 0 -1 0 0 0 -1 0 0 -1 0 0 -1 0 0 -1 0 1 0 0 1 0 0 1 0 0 1 0 0 0 1 -9.027838E-08 0 1 -9.027838E-08 -0.1512118 0.9885014 -6.528849E-08 0.1512118 0.9885014 -6.528849E-08 0 1 9.027838E-08 -0.1512118 0.9885014 6.528849E-08 0 1 9.027838E-08 0.1512118 0.9885014 6.528849E-08 0 0.8240613 -0.5665007 0 0.8240613 -0.5665007 0 0.8240613 -0.5665007 0 0.8240613 -0.5665007 0 0.8240613 0.5665007 0 0.8240613 0.5665007 0 0.8240613 0.5665007 0 0.8240613 0.5665007</VertexChannel>
+            <VertexChannel Name="TextureCoordinate0" ElementType="Framework:Vector2">0.375 0.75 0.625 0.75 0.625 0.5 0.375 0.5 0.375 0.5 0.625 0.5 0.625 0.25 0.375 0.25 0.375 0.25 0.625 0.25 0.625 0 0.375 0 0.625 1 0.875 1 0.875 0.75 0.625 0.75 0.125 1 0.375 1 0.375 0.75 0.125 0.75 0.375 1 0.625 1 0.625 1 0.375 1 0.625 0.75 0.625 0.75 0.375 0.75 0.375 0.75 0.375 1 0.625 1 0.625 1 0.375 1 0.625 1 0.625 0.75 0.625 0.75 0.625 1 0.625 0.75 0.375 0.75 0.375 0.75 0.625 0.75 0.375 0.75 0.375 1 0.375 1 0.375 0.75 0.375 0.75 0.625 0.75 0.625 0.75 0.375 0.75 0.625 0.5 0.625 0.5 0.375 0.5 0.375 0.5 0.375 0.75 0.625 0.75 0.625 0.75 0.375 0.75 0.625 0.5 0.375 0.5 0.375 0.5 0.625 0.5</VertexChannel>
+          </Channels>
+        </Vertices>
+      </Batch>
+      <Batch>
+        <Material>#Resource3</Material>
+        <Indices>2 1 0 0 3 2 6 5 4 4 7 6 10 9 8 8 11 10 14 13 12 12 15 14 18 17 16 16 19 18 22 21 20 20 23 22</Indices>
+        <Vertices>
+          <PositionIndices>24 25 27 26 26 27 29 28 28 29 31 30 30 31 25 24 25 31 29 27 30 24 26 28</PositionIndices>
+          <Channels>
+            <VertexChannel Name="Normal0" ElementType="Framework:Vector3">0 0 1 0 0 1 0 0 1 0 0 1 0 1 0 0 1 0 0 1 0 0 1 0 0 0 -1 0 0 -1 0 0 -1 0 0 -1 0 -1 0 0 -1 0 0 -1 0 0 -1 0 1 0 0 1 0 0 1 0 0 1 0 0 -1 0 0 -1 0 0 -1 0 0 -1 0 0</VertexChannel>
+            <VertexChannel Name="TextureCoordinate0" ElementType="Framework:Vector2">0.375 1 0.625 1 0.625 0.75 0.375 0.75 0.375 0.75 0.625 0.75 0.625 0.5 0.375 0.5 0.375 0.5 0.625 0.5 0.625 0.25 0.375 0.25 0.375 0.25 0.625 0.25 0.625 0 0.375 0 0.625 1 0.875 1 0.875 0.75 0.625 0.75 0.125 1 0.375 1 0.375 0.75 0.125 0.75</VertexChannel>
+          </Channels>
+        </Vertices>
+      </Batch>
+    </Geometry>
+  </Asset>
+  <Resources>
+    <Resource ID="#Resource1" Type="Graphics:BasicMaterialContent">
+      <Name>lambert3</Name>
+      <Identity>
+        <SourceFilename>C:\Users\Killer\Desktop\UCT  Work\3rd Year Project\RacingGame\RacingGame\Content\Models\Objects\garage.fbx</SourceFilename>
+        <SourceTool>FbxImporter</SourceTool>
+      </Identity>
+      <OpaqueData>
+        <Data Key="DiffuseColor" Type="Framework:Vector3">0.5176471 0.312648773 0.0608996525</Data>
+        <Data Key="EmissiveColor" Type="Framework:Vector3">0 0 0</Data>
+        <Data Key="Alpha" Type="float">1</Data>
+        <Data Key="SpecularColor" Type="Framework:Vector3">0 0 0</Data>
+        <Data Key="SpecularPower" Type="float">1.07177341</Data>
+      </OpaqueData>
+    </Resource>
+    <Resource ID="#Resource2" Type="Graphics:BasicMaterialContent">
+      <Name>lambert2</Name>
+      <Identity>
+        <SourceFilename>C:\Users\Killer\Desktop\UCT  Work\3rd Year Project\RacingGame\RacingGame\Content\Models\Objects\garage.fbx</SourceFilename>
+        <SourceTool>FbxImporter</SourceTool>
+      </Identity>
+      <OpaqueData>
+        <Data Key="DiffuseColor" Type="Framework:Vector3">0.516800046 0.3432 0.1744</Data>
+        <Data Key="EmissiveColor" Type="Framework:Vector3">0 0 0</Data>
+        <Data Key="Alpha" Type="float">1</Data>
+        <Data Key="SpecularColor" Type="Framework:Vector3">0 0 0</Data>
+        <Data Key="SpecularPower" Type="float">1.07177341</Data>
+      </OpaqueData>
+    </Resource>
+    <Resource ID="#Resource3" Type="Graphics:BasicMaterialContent">
+      <Name>lambert1</Name>
+      <Identity>
+        <SourceFilename>C:\Users\Killer\Desktop\UCT  Work\3rd Year Project\RacingGame\RacingGame\Content\Models\Objects\garage.fbx</SourceFilename>
+        <SourceTool>FbxImporter</SourceTool>
+      </Identity>
+      <OpaqueData>
+        <Data Key="DiffuseColor" Type="Framework:Vector3">0.4 0.4 0.4</Data>
+        <Data Key="EmissiveColor" Type="Framework:Vector3">0 0 0</Data>
+        <Data Key="Alpha" Type="float">1</Data>
+        <Data Key="SpecularColor" Type="Framework:Vector3">0 0 0</Data>
+        <Data Key="SpecularPower" Type="float">1.07177341</Data>
+      </OpaqueData>
+    </Resource>
+  </Resources>
+</XnaContent>
